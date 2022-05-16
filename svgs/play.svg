@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="87px" viewBox="0 0 87 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-758.000000, -2679.000000)" fill="#B6B6B6">
+            <g id="workshop-video" transform="translate(75.000000, 2303.000000)">
+                <g id="play" transform="translate(683.000000, 376.000000)">
+                    <path d="M43.5006189,0 C19.5143195,0 0,19.5143195 0,43.5006189 C0,67.4856805 19.5143195,87 43.5006189,87 C67.4856805,87 87,67.4856805 87,43.5006189 C87,19.5143195 67.4856805,0 43.5006189,0 Z" id="play-right-arrow-control-circular-button" opacity="0.188405797"></path>
+                    <path d="M44.0005912,78 C25.2514303,78 10,62.7485697 10,44.0005912 C10,25.2561601 25.2514303,10 44.0005912,10 C62.7485697,10 78,25.2561601 78,44.0005912 C78,62.7485697 62.7485697,78 44.0005912,78 Z" id="Path" opacity="0.188405797"></path>
+                    <polygon id="Path" opacity="0.666213768" points="36 57 56 43.5007042 36 30"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
